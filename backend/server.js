@@ -14,6 +14,7 @@ import uploadRoutes from './routes/uploadRoutes.js'
 dotenv.config()
 
 connectDB()
+// mongodb+srv://glenottley:Ddtddt123%21@glenottley.2wvav.mongodb.net/proshop?authSource=admin&replicaSet=atlas-gahz76-shard-0&readPreference=primary&ssl=true
 
 const app = express()
 
